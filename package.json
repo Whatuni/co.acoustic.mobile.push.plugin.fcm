@@ -33,6 +33,6 @@
     },
     "homepage": "https://github.com/Acoustic-Mobile-Push/Cordova#readme",
     "peerDependencies": {
-        "co.acoustic.mobile.push.sdk": "file:../co.acoustic.mobile.push.sdk"
+        "co.acoustic.mobile.push.sdk": "github:Whatuni/co.acoustic.mobile.push.sdk"
     }
 }
